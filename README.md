@@ -50,3 +50,9 @@ This project focuses on practicing website layouts, styling, navigation, and vis
 **Mohamed Hossam**
 
 [GitHub](https://github.com/MohamedHossam107) | [LinkedIn](https://www.linkedin.com/in/mohamed-hossam-a40169309/)
+
+
+
+## 📸 Website Preview
+
+![Travel Website Preview](preview.png)
